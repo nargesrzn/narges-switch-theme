@@ -49,6 +49,7 @@ section {
   position: fixed;
   right: 3%;
   top: 3%;
+  cursor: pointer;
 }
 .theme-switch {
   width: 50px;
